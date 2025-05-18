@@ -6,7 +6,7 @@ scope: all worlds
 
 # Monk's Common Display
 
-**Version:** 1.1.0  
+**Version:** 12.01
 **Used In:** All Worlds  
 **Purpose:** Provides a GM-controlled shared view (the "Common Display") useful for streaming, local players, or group viewing of focused content.
 
