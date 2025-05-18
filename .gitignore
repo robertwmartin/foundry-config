@@ -1,17 +1,30 @@
-# Ignore common system files
+# Ignore system-generated temp files
 .DS_Store
 Thumbs.db
-desktop.ini
 
-# Ignore temporary Foundry files (just in case)
-.cache/
-logs/
+# Ignore backup or cache folders
+cache/
+temp/
 tmp/
 
-# Optional: ignore binary exports unless explicitly added
-*.zip
-*.bak
-*.tmp
+# Ignore Foundry VTT data not tracked by this repo
+worlds/
+systems/
+modules/.*  # hidden module files
 
-# Node/npm-related (in case you ever add tooling)
-node_modules/
+# Ignore screenshots not explicitly added
+*.bak.png
+*.tmp.png
+
+# Ignore logs or debug outputs
+*.log
+*.bak
+debug/
+logs/
+
+# Ignore files used during local exports or conversions
+exports/
+conversions/
+
+# Ignore Obsidian internal files (if editing here)
+.obsidian/
