@@ -1,0 +1,17 @@
+# Ignore common system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ignore temporary Foundry files (just in case)
+.cache/
+logs/
+tmp/
+
+# Optional: ignore binary exports unless explicitly added
+*.zip
+*.bak
+*.tmp
+
+# Node/npm-related (in case you ever add tooling)
+node_modules/
