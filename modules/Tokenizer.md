@@ -12,13 +12,12 @@ scope: all worlds
 
 ## Configuration Snapshot
 
-![Tokenizer Settings 1](./Tokenizer-v4.4.2-01.png)  
-![Tokenizer Settings 2](./Tokenizer-v4.4.2-02.png)  
-![Tokenizer Settings 3](./Tokenizer-v4.4.2-03.png)  
-![Tokenizer Settings 4](./Tokenizer-v4.4.2-04.png)  
-![Tokenizer Settings 5](./Tokenizer-v4.4.2-05.png)  
-![Tokenizer Settings 6](./Tokenizer-v4.4.2-06.png)  
-![Tokenizer Settings 7](./Tokenizer-v4.4.2-07.png)
+![Tokenizer Settings 1](./Tokenizer-v4.4.2-a.png)  
+![Tokenizer Settings 2](./Tokenizer-v4.4.2-b.png)  
+![Tokenizer Settings 3](./Tokenizer-v4.4.2-c.png)  
+![Tokenizer Settings 4](./Tokenizer-v4.4.2-d.png)  
+![Tokenizer Settings 5](./Tokenizer-v4.4.2-e.png)  
+![Tokenizer Settings 6](./Tokenizer-v4.4.2-f.png)  
 
 ## Configuration Notes
 
