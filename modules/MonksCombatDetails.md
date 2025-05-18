@@ -6,17 +6,17 @@ scope: all worlds
 
 # Monk's Combat Details
 
-**Version:** 1.4.3  
+**Version:** 12.02
 **Used In:** All Worlds  
 **Purpose:** Expands Foundry's default combat tracker with audio/visual feedback, initiative rules enforcement, and enhanced player turn management.
 
 ## Configuration Snapshots
 
-![Combat Details 1](./MonksCombatDetails-1.png)  
-![Combat Details 2](./MonksCombatDetails-2.png)  
-![Combat Details 3](./MonksCombatDetails-3.png)  
-![Combat Details 4](./MonksCombatDetails-4.png)  
-![Combat Details 5](./MonksCombatDetails-5.png)
+![Combat Details 1](./MonksCombatDetails-a.png)  
+![Combat Details 2](./MonksCombatDetails-b.png)  
+![Combat Details 3](./MonksCombatDetails-c.png)  
+![Combat Details 4](./MonksCombatDetails-d.png)  
+![Combat Details 5](./MonksCombatDetails-e.png)
 
 ## Configuration Summary
 
@@ -50,7 +50,6 @@ You may wish to explore enabling the following based on your playstyle:
 |--------|-------------|------------|
 | `Show CR in Combat` | Displays Encounter CR during live combat | Transparent challenge overview for GM |
 | `Pan to Combatant` | Camera auto-focus on token at turn start | Helps players in large or zoomed-out maps |
-| `Show Combat Playlist` | Add music selection during setup | May streamline soundscape setup |
 | `Turn Dead Invisible` | Auto-hides dead tokens | Immersion boost if you want bodies to vanish |
 | `Large Turn Notification` | Displays a larger, centered visual | Dramatic effect for stream-style games |
 | `Add Combat Bars` | Adds separate HP bars for in-combat tokens | Useful in large-scale battles
