@@ -14,9 +14,9 @@ This repository tracks the configuration of my Foundry VTT setup across local an
 ## Structure
 
 foundry-config/
-├── modules/ 					# Markdown notes per module
+├── modules/                     # Markdown notes per module
 │ └── InstalledModules.md
-├── exports/ 					# Exported JSON or settings files
+├── exports/                     # Exported JSON or settings files
 │ └── worlds/
 │ └── Dragonfall/
 │ ├── settings-2025-05-17.db
