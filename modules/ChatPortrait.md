@@ -32,6 +32,10 @@ scope: all worlds
 
 These settings aim to **maximize readability and clarity**, especially in games with mixed in-character and out-of-character chat.
 
+Two additional screenshots are inclued in the repo to show of applying the config changes to this module. These are used in the "Did You Know #1" documentation
+	- ./ChatCardClean.png
+    - ./ChatCardDefault.png
+
 ## Maintenance & Relevance
 
 - ⚠️ **Not yet updated for Foundry V13** — monitor closely before upgrading
