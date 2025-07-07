@@ -6,13 +6,13 @@ scope: dev only
 
 # DFreds Droppables
 
-**Version:** 2.1.0  
+**Version:** 4.0.4
 **Used In:** Dev World (Scene prep and drop-based interaction)  
 **Purpose:** Enables GMs to drag and drop rich content (tokens, tiles, audio, journal entries, lights, and more) directly onto the canvas from folders or compendiums.
 
 ## Configuration Snapshot
 
-![DFreds Droppables Settings v2.1.0](./DFredsDroppables-v2.1.0.png)
+![DFreds Droppables Settings v4.0.4](./DFredsDroppables-v4.0.4.png)
 
 ## Configuration Notes
 

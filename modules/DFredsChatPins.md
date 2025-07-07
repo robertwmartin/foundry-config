@@ -4,7 +4,7 @@ status: active
 scope: all worlds
 ---
 
-# Active Auras
+# DFreds Chat Pins
 
 **Version:** 4.1.0 
 **Used In:** All Worlds  

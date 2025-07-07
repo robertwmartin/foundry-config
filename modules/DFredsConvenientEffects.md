@@ -12,7 +12,7 @@ scope: all worlds
 
 ## Configuration Snapshot
 
-![DFreds Convenient Effects Settings v2.5.1](./DFredsConvenientEffects-v2.5.1.png)
+![DFreds Convenient Effects Settings v7.4.2](./DFredsConvenientEffects-v7.4.2.png)
 
 ## Configuration Notes
 
