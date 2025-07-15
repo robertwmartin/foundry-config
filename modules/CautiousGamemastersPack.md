@@ -12,7 +12,7 @@ scope: all worlds
 
 ## Configuration Snapshot
 
-![Cautious Gamemaster's Pack v1.10.2](./CautiousGamemastersPack-v1.10.2.png)
+![Cautious Gamemaster's Pack v1.10.2](./CautiousGamemastersPack-v1.10.2-new.png)
 
 ## Configuration Notes
 
@@ -37,5 +37,4 @@ This minimal setup supports social communication and accessibility in games, par
 
 ## Tasks
 
-- [x] Capture and commit screenshot as `CautiousGamemasterPack-v1.10.2.png`
 - [ ] Periodically review if typing indicator becomes core Foundry feature
