@@ -12,14 +12,14 @@ scope: all worlds
 
 ## Configuration Snapshot
 
-![Cautious GM Settings v1.10.2](./CautiousGamemasterPack-v1.10.2.png)
+![Cautious Gamemaster's Pack v1.10.2](./CautiousGamemastersPack-v1.10.2.png)
 
 ## Configuration Notes
 
 - ✅ **Notify Typing** – enabled
 - ✅ **Allow players to see typing notification** – enabled (players also benefit)
 - ✅ **Allow players to use /desc** – enabled
-- ☐ All other features (GM speaker mode, hidden token handling, NPC damage display tweaks) are **disabled or set to default**
+- July 2025 - changed settings to stop displaying scrolling healing text on NPCs to players
 
 This minimal setup supports social communication and accessibility in games, particularly useful when players have unreliable audio/video or type long chat messages.
 
