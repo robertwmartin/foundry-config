@@ -12,7 +12,7 @@ scope: all worlds
 
 ## Configuration Snapshot
 
-![Cautious Gamemaster's Pack v1.10.2](./CautiousGamemastersPack-v1.10.2-new.png)
+![Cautious Gamemaster's Pack v1.10.2](./CautiousGamemastersPack-v1.10.2-new-a.png)
 
 ## Configuration Notes
 
