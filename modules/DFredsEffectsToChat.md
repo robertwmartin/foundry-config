@@ -6,13 +6,13 @@ scope: all worlds
 
 # DFreds Effects To Chat
 
-**Version:** 1.0.2
+**Version:** 2.0.2
 **Used In:** All Worlds  
 **Purpose:** Whispers any change in effect status to the GM
 
 ## Configuration Snapshot
 
-![DFreds Effects To Chat v1.0.2](./DFredsEffectsToChat-v1.0.2.png)
+![DFreds Effects To Chat](./DFredsEffectsToChat.png)
 
 ## Configuration Notes
 
