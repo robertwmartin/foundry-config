@@ -7,13 +7,13 @@ scope: dev only
 # Automated Animations (AA)
 
 **Version:** 5.1.4  
-**Used In:** Dev Server (select scenes)  
+**Used In:** 5e-Dev 
 **Purpose:** Adds dynamic, triggered animations to attacks and effects, primarily leveraging the JB2A asset library.
 
 ## Configuration Snapshots
 
-![Automated Animations Settings Part 1](./AutomatedAnimations-v5.1.4-a.png)  
-![Automated Animations Settings Part 2](./AutomatedAnimations-v5.1.4-b.png)
+![Automated Animations Settings Part 1](./Images/AutomatedAnimations-01.png)  
+![Automated Animations Settings Part 2](./Images/AutomatedAnimations-02.png)
 
 ## Configuration Notes
 

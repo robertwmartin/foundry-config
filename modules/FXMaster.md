@@ -6,13 +6,13 @@ scope: all worlds
 
 # FXMaster
 
-**Version:** 2.4.1  
+**Version:** 7.1.2
 **Used In:** All Worlds  
 **Purpose:** Adds special effects to the scene such as weather, fog, magical particles, and screen filters. Used for atmosphere and immersion.
 
 ## Configuration Snapshot
 
-![FXMaster Settings v2.4.1](./FXMaster-v2.4.1.png)
+![Gambit's FXMaster](./Images/GambitsFXMaster-01.png)
 
 ## Configuration Notes
 

@@ -6,29 +6,20 @@ scope: all worlds
 
 # Cautious Gamemaster's Pack
 
-**Version:** 1.10.2  
-**Used In:** All Worlds  
-**Purpose:** Enhances chat and GM visibility features. You currently use this module **exclusively for the typing notification functionality**, which is not available in Foundry core.
+**Version:** 1.10.4  
+**Used In:** Agnostic-All
+**Purpose:** Enhances chat and GM visibility features. 
 
 ## Configuration Snapshot
 
-![Cautious Gamemaster's Pack v1.10.2](./CautiousGamemastersPack-v1.10.2-new-a.png)
+![Cautious Gamemaster's Pack](./CautiousGamemastersPack-v1.10.4.png)
 
 ## Configuration Notes
 
 - ✅ **Notify Typing** – enabled
 - ✅ **Allow players to see typing notification** – enabled (players also benefit)
 - ✅ **Allow players to use /desc** – enabled
-- July 2025 - changed settings to stop displaying scrolling healing text on NPCs to players
-
-This minimal setup supports social communication and accessibility in games, particularly useful when players have unreliable audio/video or type long chat messages.
-
-## Maintenance & Relevance
-
-- ✅ Still maintained and compatible with Foundry V12
-- 🧠 Solves a real issue not handled by core Foundry
-- 💡 Lightweight — fits your low-friction setup philosophy
-- 🧭 Should remain installed as long as you value typing visibility during roleplay or troubleshooting
+- **Hide scrolling damage text on NPC** and **Hide scrolling healing text on NPC token** added to help hide GM actions from the players
 
 ## Related Modules
 
@@ -37,4 +28,4 @@ This minimal setup supports social communication and accessibility in games, par
 
 ## Tasks
 
-- [ ] Periodically review if typing indicator becomes core Foundry feature
+- [ ] Compare how this works with the Core setting "Scrolling Status Text"

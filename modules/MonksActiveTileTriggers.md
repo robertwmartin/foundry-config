@@ -6,14 +6,14 @@ scope: all worlds
 
 # Monk's Active Tile Triggers (MATT)
 
-**Version:** 12.0.2
+**Version:** 13.0.6
 **Used In:** All Worlds  
 **Purpose:** Enables interactive map elements via tile-based triggers (teleportation, macro execution, doors, scene links, and more). Essential for dynamic dungeons, puzzles, and environmental interactivity.
 
 ## Configuration Snapshots
 
-![MATT Settings 1](./MonksActiveTileTriggers-a.png)  
-![MATT Settings 2](./MonksActiveTileTriggers-b.png)
+![Monk's Active Tile Triggers - Part 1](./Images/MonksActiveTileTriggers-01.png)  
+![Monk's Active Tile Triggers - Part 2](./Images/MonksActiveTileTriggers-02.png)
 
 ## Configuration Notes
 

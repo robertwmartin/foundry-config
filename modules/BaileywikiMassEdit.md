@@ -6,15 +6,16 @@ scope: dev only
 
 # Baileywiki – Mass Edit
 
-**Version:** 1.84.5  
-**Used In:** Dev World (Scene Preparation)  
-**Purpose:** Enhances editing workflows by enabling rapid adjustment of multiple tiles, drawings, or placeables at once.
+**Version:** 2.5.2
+**Used In:** Agnostic-Dev
+**Purpose:** Enhances editing workflows by enabling rapid adjustment of multiple tiles, drawings, or placeables at once. Provides a searchable index of all assets.
 
 ## Configuration Snapshot
 
-![Baileywiki Mass Edit Settings v1.84.5](./BaileywikiMassEdit-v1.84.5.png)
+![Baileywiki Mass Edit Settings - Part 1](./BaileywikiMassEdit-v1.84.5.png)
+![Baileywiki Mass Edit Settings - Part 2](./BaileywikiMassEdit-v2.5.2.png)
 
-## Configuration Notes
+## Notes
 
 - ☐ **Single Placeable: Default Config** – disabled to retain modified config behavior
 - ☐ **Allow Manual Input for Range Sliders** – disabled; sliders remain visual
@@ -23,15 +24,8 @@ scope: dev only
 - ✅ **Auto-snap Coordinates to Grid** – improves grid alignment during scene setup
 - ✅ **Pan to Search Target** – centers on first found item
 - ☐ **Pre-Select Auto-Apply** – disabled for manual control
-
-These defaults appear tuned for fast, precise placement during complex builds.
-
-## Maintenance & Relevance
-
-- ✅ Maintained by Baileywiki team
-- 🧱 Designed for **builders and scene artists**, especially those using the Modular City or Dungeon series
-- 🧭 Used only during scene prep — not needed in active gameplay worlds
-- ⚠️ Should be disabled or uninstalled in live game worlds to reduce overhead
+- Used only during scene prep — not needed in active gameplay worlds
+- Should be disabled or uninstalled in live game worlds to reduce overhead
 
 ## Related Modules
 
@@ -40,6 +34,4 @@ These defaults appear tuned for fast, precise placement during complex builds.
 
 ## Tasks
 
-- [x] Capture screenshot as `BaileywikiMassEdit-v1.84.5.png`
-- [ ] Revisit settings if scene build workflow changes significantly
-- [ ] Consider scripting favorite presets if frequently reused
+- None

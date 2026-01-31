@@ -1,30 +1,25 @@
 ---
 category: automation
 status: active
-scope: all worlds
+scope: 5e
 ---
 
 # Active Auras
 
-**Version:** 0.12.2  
-**Used In:** All Worlds  
+**Version:** 0.12.4  
+**Used In:** 5e-All
 **Purpose:** Enables automatic aura-based effects from tokens — buffs, conditions, etc.
 
 ## Configuration Snapshot
 
-![Active Auras Settings v0.12.2](./ActiveAuras-v0.12.2.png)
+![Active Auras Settings - Part 1](./ActiveAuras-v0.12.2.png)
+![Active Auras Settings - Part 2](./ActiveAuras-v0.12.4.png)
 
 ## Notes
 
-- All visible settings appear to be at their default values.
-- Screenshot is used to detect future changes across version updates.
-
-## Related Modules
-
-- [[MidiQOL]] – often paired with this for effect application (5e only)
-- [[DFreds Convenient Effects]] – for predefined conditions
+- Automation, largely tied to DAE which is not in use
 
 ## Tasks
 
-- [ ] When updating module, compare settings screen to this snapshot
+- [ ] Look to removing it if equivalent or similar functionality exists in Core
 

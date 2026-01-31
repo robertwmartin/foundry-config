@@ -6,15 +6,17 @@ scope: all worlds
 
 # Always HP
 
-**Version:** 12.01  
-**Used In:** All Worlds  
-**Purpose:** Displays a token’s current HP and death saving throws in a persistent, easily accessible overlay. Useful for GM visibility and quick status updates.
+**Version:** 13.04
+**Used In:** 5e-All, ToV-All
+**Purpose:** Displays a token’s current HP and death saving throws in a persistent, easily accessible overlay. Useful for GM visibility and quick status updates. Death Saves are clearly a 5e rule, so unclear how that functionality works for other game systems.
 
 ## Configuration Snapshot
 
-![Always HP Settings v12.01](./AlwaysHP-v12.01.png)
+![Always HP Settings - Part 1](./Images/AlwaysHP-01.png)
+![Always HP Settings - Part 2](./Images/AlwaysHP-02.png)
+![Always HP Settings - Part 3](./Images/AlwaysHP-03.png)
 
-## Configuration Notes
+## Notes
 
 - **Load Option:** GM Only
 - **Window Show Options:** When token selected
@@ -24,22 +26,12 @@ scope: all worlds
 - ✅ "Set defeated status on zero HP" – enabled
 - ✅ "Clear Death Saving Throws" – enabled
 - ✅ "Show Death Saving Throws" – enabled
-
-These settings appear well-tuned for D&D 5e under Foundry V12, supporting the simplified system without relying on DAE or MidiQOL.
-
-## Maintenance & Relevance
-
-- ✅ Confirmed compatible with Foundry V12
-- 🧭 Lightweight and effective alternative to heavy combat automation tools
-- 💡 Useful for both the GM and players if visibility settings are adjusted
-- 🔧 No known replacements that integrate as cleanly with native death saves
+- Presumably works will all game systems, but only tested so far with 5e and ToV
 
 ## Related Modules
 
-- [[DFreds Convenient Effects]] – can complement this for visual conditions
 - [[Cautious Gamemaster's Pack]] – overlaps slightly in GM visibility features
 
 ## Tasks
 
-- [x] Capture and commit screenshot as `AlwaysHP-v12.01.png`
-- [ ] Consider exposing Always HP to players if you want them tracking death saves visually
+- [ ] Investigate how well it works with Tales of the Valiant, Nimble, and Daggerheart
