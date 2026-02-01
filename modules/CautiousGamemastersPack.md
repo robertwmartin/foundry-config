@@ -6,13 +6,14 @@ scope: all worlds
 
 # Cautious Gamemaster's Pack
 
-**Version:** 1.10.4  
+**Version:** 1.11.0 
 **Used In:** Agnostic-All
 **Purpose:** Enhances chat and GM visibility features. 
 
 ## Configuration Snapshot
 
-![Cautious Gamemaster's Pack](./CautiousGamemastersPack-v1.10.4.png)
+![Cautious Gamemaster's Pack](./Images/CautiousGamemastersPack-01.png)
+![Cautious Gamemaster's Pack](./Images/CautiousGamemastersPack-02.png)
 
 ## Configuration Notes
 

@@ -12,7 +12,7 @@ scope: all worlds
 
 ## Configuration Snapshot
 
-![Actually Private Messages Settings v1.4](./ActuallyPrivateMessages-v1.4.png)
+![Actually Private Messages Settings v1.4](./Images/ActuallyPrivateMessages-v1.4.png)
 
 ## Notes
 

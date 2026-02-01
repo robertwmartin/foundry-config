@@ -12,7 +12,7 @@ scope: all worlds
 
 ## Configuration Snapshot
 
-![Better Roofs](./BetterRoofs-v3.0.0.png)
+![Better Roofs](./Images/BetterRoofs-01.png)
 
 ## Notes
 

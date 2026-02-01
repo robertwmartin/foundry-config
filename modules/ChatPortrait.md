@@ -12,12 +12,12 @@ scope: all worlds
 
 ## Configuration Snapshots
 
-- ![ChatPortrait - Part 1](./ChatPortrait-a.png)
-- ![ChatPortrait - Part 2](./ChatPortrait-b.png)
-- ![ChatPortrait - Part 3](./ChatPortrait-c.png)
-- ![ChatPortrait - Part 4](./ChatPortrait-d.png)
-- ![ChatPortrait - Part 5](./ChatPortrait-e.png)
-- ![ChatPortrait - Part 6](./ChatPortrait-f.png)
+- ![ChatPortrait - Part 1](./Images/ChatPortrait-a.png)
+- ![ChatPortrait - Part 2](./Images/ChatPortrait-b.png)
+- ![ChatPortrait - Part 3](./Images/ChatPortrait-c.png)
+- ![ChatPortrait - Part 4](./Images/ChatPortrait-d.png)
+- ![ChatPortrait - Part 5](./Images/ChatPortrait-e.png)
+- ![ChatPortrait - Part 6](./Images/ChatPortrait-f.png)
 
 ## Notes
 
@@ -33,3 +33,4 @@ scope: all worlds
 ## Tasks
 
 - [ ] Need to understand if Daggerheart and Nimble need "Disable chat portrait" selected or not
+- [ ] Figure out all of the settings required for ToV, as it is (significantly?) different than 5e 

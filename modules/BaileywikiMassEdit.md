@@ -6,14 +6,14 @@ scope: dev only
 
 # Baileywiki – Mass Edit
 
-**Version:** 2.5.2
+**Version:** 2.7.8
 **Used In:** Agnostic-Dev
 **Purpose:** Enhances editing workflows by enabling rapid adjustment of multiple tiles, drawings, or placeables at once. Provides a searchable index of all assets.
 
 ## Configuration Snapshot
 
-![Baileywiki Mass Edit Settings - Part 1](./BaileywikiMassEdit-v1.84.5.png)
-![Baileywiki Mass Edit Settings - Part 2](./BaileywikiMassEdit-v2.5.2.png)
+![Baileywiki Mass Edit Settings - Part 1](./Images/BaileywikiMassEdit-01.png)
+![Baileywiki Mass Edit Settings - Part 2](./Images/BaileywikiMassEdit-02.png)
 
 ## Notes
 

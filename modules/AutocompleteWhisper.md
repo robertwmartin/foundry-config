@@ -12,7 +12,7 @@ scope: all worlds
 
 ## Configuration Snapshot
 
-![Autocomplete Whisper Settings](./AutocompleteWhisper-v1.0.6.png)
+![Autocomplete Whisper Settings](./Images/AutocompleteWhisper-01.png)
 
 ## Notes
 

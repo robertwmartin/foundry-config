@@ -6,14 +6,15 @@ scope: all worlds
 
 # Dice So Nice
 
-**Version:** 5.3.2  
+**Version:** 5.2.4
 **Used In:** All Worlds  
 **Purpose:** Provides 3D animated dice for rolls in Foundry. Enhances immersion and clarity in both in-person and remote games.
 
 ## Configuration Snapshots
 
-- ![Dice So Nice Settings v5.3.2 – Part 1](./DiceSoNice-v5.3.2-a.png)
-- ![Dice So Nice Settings v5.3.2 – Part 2](./DiceSoNice-v5.3.2-b.png)
+- ![Dice So Nice Settings - Part 1](./Images/DiceSoNice-01.png)
+- ![Dice So Nice Settings - Part 2](./Images/DiceSoNice-02.png)
+- ![Dice So Nice Settings - Part 3](./Images/DiceSoNice-03.png)
 
 ## Configuration Notes
 

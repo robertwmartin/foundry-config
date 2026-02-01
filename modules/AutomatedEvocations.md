@@ -12,7 +12,7 @@ scope: all worlds
 
 ## Configuration Snapshot
 
-![Automated Evocations Settings](./AutomatedEvocations-v4.0.0.png)
+![Automated Evocations Settings](./Images/AutomatedEvocations-01.png)
 
 ## Notes
 

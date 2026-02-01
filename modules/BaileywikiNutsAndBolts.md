@@ -6,13 +6,13 @@ scope: dev only
 
 # Baileywiki – Nuts and Bolts
 
-**Version:** 0.13.2  
+**Version:** 0.13.4  
 **Used In:** Agnostic-Dev 
 **Purpose:** A utility module that supports Baileywiki modular systems by providing shared functions, enhancements, or backend features needed for other Baileywiki modules to work properly.
 
 ## Configuration Snapshot
 
-![Baileywiki Nuts and Bolts](./BaileywikiNutsAndBolts-v0.13.2.png)
+![Baileywiki Nuts and Bolts](./Images/BaileywikiNutsAndBolts-01.png)
 
 ## Notes
 

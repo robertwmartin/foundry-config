@@ -12,7 +12,7 @@ scope: all worlds (used as needed)
 
 ## Configuration Snapshot
 
-![Challenge Tracker Settings](./ChallengeTracker-v2.3.png)
+![Challenge Tracker Settings](./Images/ChallengeTracker-01.png)
 
 ## Notes
 

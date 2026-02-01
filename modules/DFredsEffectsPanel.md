@@ -6,13 +6,13 @@ scope: all worlds
 
 # DFreds Effects Panel
 
-**Version:** 5.1.4 
+**Version:** 5.1.5 
 **Used In:** 5e-All, ToV-All
 **Purpose:** Displays icons for each effect applied to the currently selected token
 
 ## Configuration Snapshot
 
-![DFreds Effects Panel](./DFredsEffectsPanel.png)
+![DFreds Effects Panel](./Images/DFredsEffectsPanel-01.png)
 
 ## Notes
 
