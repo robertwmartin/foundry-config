@@ -6,7 +6,7 @@ scope: all worlds
 
 # DFreds Convenient Effects
 
-**Version:** 8.2.4
+**Version:** 8.2.5
 **Used In:**  5e-All
 **Purpose:** Provides an easy, searchable, and organized interface for applying conditions, states, and effects to tokens — replacing more complex automation systems like DAE.
 

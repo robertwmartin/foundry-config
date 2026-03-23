@@ -6,13 +6,13 @@ scope: all worlds
 
 # Token HUD Wildcard
 
-**Version:** 2.1.0  
+**Version:** 3.5.0
 **Used In:** All Worlds  
 **Purpose:** Used to generate randomized token appearances from a set of images for NPCs. This is particularly useful when creating crowds, mobs, or other groups where visual variety adds immersion.
 
 ## Configuration Snapshot
 
-![Token HUD Wildcard Settings v2.1.0](./TokenHUDWildcard-v2.1.0.png)
+![Token HUD Wildcard Settings v2.1.0](./Images/TokenHUDWildcard-01.png)
 
 ## Configuration Notes
 
@@ -29,3 +29,7 @@ Settings shown here include:
 - Right-click features for randomizing or sharing tokens
 
 Token HUD Wildcard is complementary to **Token Variant Art**, which is used for player-controlled token swaps. While Token Variant Art focuses on character presentation, Token HUD Wildcard excels at visual variety for GMs when populating maps with randomized NPCs.
+
+## Tasks
+
+- None
