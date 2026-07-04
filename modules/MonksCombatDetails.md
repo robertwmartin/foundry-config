@@ -1,7 +1,7 @@
 ---
 category: combat-enhancement
 status: active
-scope: all worlds
+scope: all worlds 
 ---
 
 # Monk's Combat Details
@@ -16,7 +16,7 @@ scope: all worlds
 ![Combat Details 2](./MonksCombatDetails-b.png)  
 ![Combat Details 3](./MonksCombatDetails-c.png)  
 ![Combat Details 4](./MonksCombatDetails-d.png)  
-![Combat Details 5](./MonksCombatDetails-e.png)
+![Combat Details 5](./MonksCombatDetails-e.webp)
 
 ## Configuration Summary
 
