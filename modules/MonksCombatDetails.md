@@ -13,8 +13,8 @@ scope: all worlds
 ## Configuration Snapshots
 
 ![Combat Details 1](./MonksCombatDetails-a.png)  
-![Combat Details 2](./MonksCombatDetails-b.png)  
-![Combat Details 3](./MonksCombatDetails-c.png)  
+![Combat Details 2](./MonksCombatDetails-b.webp)  
+![Combat Details 3](./MonksCombatDetails-c.webp)  
 ![Combat Details 4](./MonksCombatDetails-d.png)  
 ![Combat Details 5](./MonksCombatDetails-e.webp)
 
