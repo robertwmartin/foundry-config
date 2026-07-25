@@ -6,7 +6,7 @@ scope: all worlds
 
 # Dice So Nice
 
-**Version:** 5.2.4
+**Version:** 6.2.9
 **Used In:** All Worlds  
 **Purpose:** Provides 3D animated dice for rolls in Foundry. Enhances immersion and clarity in both in-person and remote games.
 
@@ -32,21 +32,4 @@ scope: all worlds
 - ☐ Disabled during combat — not in use
 - ☐ Display chat immediately — messages wait for animation
 
-These settings aim to maximize visual clarity and fun without sacrificing tempo or usability.
 
-## Maintenance & Relevance
-
-- ✅ Maintained and highly stable
-- 🧠 Core part of player experience in all campaigns
-- 💬 Reinforces engagement in digital and hybrid games
-- 🧭 One of the few “must-have” visual mods in your toolkit
-
-## Related Modules
-
-- [[Automated Animations]] – complements Dice So Nice for spell/effect visuals
-- [[DFreds Convenient Effects]] – synchronizes well for visual feedback
-
-## Tasks
-
-- [x] Capture and commit screenshots as `DiceSoNice-v5.3.2-a.png` and `b.png`
-- [ ] Continue using across all game systems; revisit only if V13 changes dice behavior

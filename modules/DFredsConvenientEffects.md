@@ -6,7 +6,7 @@ scope: all worlds
 
 # DFreds Convenient Effects
 
-**Version:** 8.2.5
+**Version:** 9.2.1
 **Used In:**  5e-All
 **Purpose:** Provides an easy, searchable, and organized interface for applying conditions, states, and effects to tokens — replacing more complex automation systems like DAE.
 
@@ -20,7 +20,4 @@ scope: all worlds
   - Only GMs see and use the effects UI through token controls
 - **Create Folders Permission:** Game Master
   - Only GMs can create new folders for organizing effects
-
-## Tasks
-
-- [ ] See if it can work with Tales of the Valiant as well
+- It sort of works with ToV. The standard 5e Conditions don't work, but creating a ToV specific Condition does allow it to be applied to ToV Actors.
